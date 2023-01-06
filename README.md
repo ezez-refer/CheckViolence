@@ -9,3 +9,4 @@
 ## 예시 화면
 ![image](https://user-images.githubusercontent.com/51015187/210918005-27eb4439-7683-474d-82a8-b50db647aea8.png)
 ![image](https://user-images.githubusercontent.com/51015187/210918034-b09336fd-81a1-43ba-910e-2f0ae892e06a.png)
+- 카카오톡 채팅방의 Text 데이터를 통해 폭력성 대화의 비율을 확인할 
